@@ -1,4 +1,4 @@
 # Retail-Store-EDA-discount-weekend
-## Exploratory Analysis of Kroger sales during one of their "Super Saver Weekend"
+## Exploratory Analysis of Kroger sales (USA Retail Store in USA) during one of their "Super Saver Weekend"
 
 
