@@ -39,9 +39,9 @@
 ##### Which products have the highest probability of being purchased together? 
 
 ##### We calculate the correlation between the most bought products and this is result:
-![Image Title]([https://github.com/vicenclleixa/Retail-Store-EDA-discount-weekend/blob/main/images/Correlation%20Heatmap%20of%20Top%2030%20products.png?raw=true](https://github.com/vicenclleixa/Retail-Store-EDA-discount-weekend/blob/main/images/Correlation%20Heatmap.png?raw=true))
+![Image Title]([https://github.com/vicenclleixa/Retail-Store-EDA-discount-weekend/blob/main/images/Correlation%20Heatmap%20of%20Top%2030%20products.png?raw=true](https://github.com/vicenclleixa/Retail-Store-EDA-discount-weekend/blob/main/images/Correlation%20Heatmap.png?raw=true)
 
-![Image Title]([https://github.com/vicenclleixa/Retail-Store-EDA-discount-weekend/blob/main/images/Top%2020%20Most%20Commonly%20Bought%20Products.png?raw=true](https://github.com/vicenclleixa/Retail-Store-EDA-discount-weekend/blob/main/images/Most%20commonly%20purchased%20products.png?raw=true))
+![Image Title]([https://github.com/vicenclleixa/Retail-Store-EDA-discount-weekend/blob/main/images/Top%2020%20Most%20Commonly%20Bought%20Products.png?raw=true](https://github.com/vicenclleixa/Retail-Store-EDA-discount-weekend/blob/main/images/Most%20commonly%20purchased%20products.png?raw=true)
 
 ## Most commonly bought pairs of products:
 ##### 1-Root vegetables and other vegetables
