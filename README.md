@@ -29,7 +29,7 @@
 ##### There is a presence of four high-sugar foods and one alcoholic beverage among the top 20 best-selling products: rolls/buns, soda, pastry, bottled beer, and whipped/sour cream. 
 
 ##### Let's take a look:
-![Image Title](https://raw.githubusercontent.com/vicenclleixa/Retail-Store-EDA-discount-weekend/main/images/Top%2050%20Most%20Sold%20Products.png)
+![Image Title](https://github.com/vicenclleixa/Retail-Store-EDA-discount-weekend/blob/main/images/Product%20Top-Sellers.png?raw=true)
 
 ##### The least sold products are generally cleaning products, snacks, personal care items, and specialized frozen or fresh foods. The least sold product is baby food. Meanwhile, sound storage medium, preservation products, bags, kitchen utensils, and frozen chicken are among the least sold. 
 
