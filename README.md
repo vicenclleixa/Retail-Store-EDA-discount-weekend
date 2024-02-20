@@ -39,7 +39,7 @@
 ##### Which products have the highest probability of being purchased together? 
 
 ##### We calculate the correlation between the most bought products and this is result:
-![Image Title]([https://github.com/vicenclleixa/Retail-Store-EDA-discount-weekend/blob/main/images/Correlation%20Heatmap%20of%20Top%2030%20products.png?raw=true])
+![Image Title](https://github.com/vicenclleixa/Retail-Store-EDA-discount-weekend/blob/main/images/Correlation%20Heatmap%20of%20Top%2030%20products.png?raw=true)
 
 ![Image Title]()
 ## Most commonly bought pairs of products:
