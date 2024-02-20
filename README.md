@@ -34,14 +34,14 @@
 ##### The least sold products are generally cleaning products, snacks, personal care items, and specialized frozen or fresh foods. The least sold product is baby food. Meanwhile, sound storage medium, preservation products, bags, kitchen utensils, and frozen chicken are among the least sold. 
 
 ##### Here we can see the histogram depicting the 50 least sold products during the Super Saver weekend:
-![Image Title](https://github.com/vicenclleixa/Retail-Store-EDA-discount-weekend/blob/main/images/50%20least%20sold%20products.png?raw=true)
+![Image Title](https://github.com/vicenclleixa/Retail-Store-EDA-discount-weekend/blob/main/images/Least%20sold%20products.png?raw=true)
 
 ##### Which products have the highest probability of being purchased together? 
 
 ##### We calculate the correlation between the most bought products and this is result:
-![Image Title](https://github.com/vicenclleixa/Retail-Store-EDA-discount-weekend/blob/main/images/Correlation%20Heatmap%20of%20Top%2030%20products.png?raw=true)
+![Image Title]([https://github.com/vicenclleixa/Retail-Store-EDA-discount-weekend/blob/main/images/Correlation%20Heatmap%20of%20Top%2030%20products.png?raw=true](https://github.com/vicenclleixa/Retail-Store-EDA-discount-weekend/blob/main/images/Correlation%20Heatmap.png?raw=true))
 
-![Image Title](https://github.com/vicenclleixa/Retail-Store-EDA-discount-weekend/blob/main/images/Top%2020%20Most%20Commonly%20Bought%20Products.png?raw=true)
+![Image Title]([https://github.com/vicenclleixa/Retail-Store-EDA-discount-weekend/blob/main/images/Top%2020%20Most%20Commonly%20Bought%20Products.png?raw=true](https://github.com/vicenclleixa/Retail-Store-EDA-discount-weekend/blob/main/images/Most%20commonly%20purchased%20products.png?raw=true))
 
 ## Most commonly bought pairs of products:
 ##### 1-Root vegetables and other vegetables
